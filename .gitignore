@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# class files
 config.py
+ratings.csv
 
 # C extensions
 *.so
